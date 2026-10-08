@@ -1,6 +1,6 @@
-# Hi, I'm Navya 👋
+# Navya Vankdoth
 
-### AI/ML & Product Builder | CSE Student | Building AI-Powered Products
+### AI/ML & Product Builder | Building AI-Powered Products & Startups | CSE '28
 
 I'm a Computer Science Engineering student focused on building practical products at the intersection of **AI, software, automation, fintech, and cloud**.
 
