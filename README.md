@@ -71,4 +71,4 @@ Building stronger AI products, improving software engineering depth, and learnin
 
 I'm interested in connecting with **builders, founders, engineers, researchers, and people working on ambitious technology products**.
 
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/thenavya)
+[LinkedIn](https://www.linkedin.com/in/navya-vankdoth-218831425) · [GitHub](https://github.com/thenavya)
