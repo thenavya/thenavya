@@ -10,17 +10,17 @@ I enjoy taking an idea from **problem → architecture → prototype → working
 
 ## 🚀 What I'm Building
 
-### 🛡️ Sentinel — AI Business Autopilot
+### 🛡️ [Sentinel — AI Business Autopilot](https://github.com/thenavya/sentinel-ai-business-autopilot)
 An AI decision-and-action layer exploring how business workflows can move from prediction to safe, policy-controlled action.
 
 **Python · AI · Automation · Razorpay**
 
-### ⚖️ EquiChain
+### ⚖️ [EquiChain](https://github.com/thenavya/EquiChain)
 An AI-powered collective procurement platform designed to help small businesses make better purchasing decisions.
 
 **Python · Gemini · Streamlit · AI**
 
-### 👻 PromptGhost
+### 👻 [PromptGhost](https://github.com/thenavya/PromptGhost)
 A Git-native behavioral diff tool for AI applications that compares prompt changes by their **behavioral impact**, not just code changes.
 
 **Python · LLMs · Git · AI Evaluation**
