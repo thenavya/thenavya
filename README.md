@@ -41,16 +41,15 @@ A Git-native behavioral diff tool for AI applications that compares prompt chang
 
 ## 🛠️ Tech Stack
 
-**Languages**
+## 🛠️ Tech Stack
 
+**Languages**  
 Python · JavaScript · SQL
 
-**AI / ML**
-
+**AI & Development**  
 Generative AI · LLM Applications · AI Agents · Prompt Engineering
 
-**Tools & Platforms**
-
+**Tools & Platforms**  
 Git · GitHub · Streamlit · Azure · Razorpay APIs
 
 ---
