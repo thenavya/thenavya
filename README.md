@@ -1,73 +1,75 @@
-# Navya Vankdoth
 
-### AI/ML & Product Builder | Building AI-Powered Products & Startups | CSE '28
+# Hi, I'm Navya Vankdoth 👋
 
-I'm a Computer Science Engineering student focused on building practical products at the intersection of **AI, software, automation, fintech, and cloud**.
+### Building AI-powered products from problem to MVP | Software Engineering, GenAI & Product Development | CSE '28 | Hyderabad
 
-I enjoy taking an idea from **problem → architecture → prototype → working product**.
+I'm a Computer Science and Engineering student who enjoys building things with technology and exploring how ideas can turn into useful products.
 
----
+I'm particularly interested in software engineering, Generative AI, backend development, automation, and product engineering. I enjoy taking a problem, understanding what needs to be solved, exploring possible approaches, and building something that works.
 
 ## 🚀 What I'm Building
 
-### 🛡️ [Sentinel — AI Business Autopilot](https://github.com/thenavya/sentinel-ai-business-autopilot)
-An AI decision-and-action layer exploring how business workflows can move from prediction to safe, policy-controlled action.
+### 🛡️ Sentinel — AI Business Decision & Action System
+An AI-powered decision-and-action layer that explores how businesses can detect problems, estimate their impact, simulate interventions, and enforce safe, policy-controlled actions.
 
-**Python · AI · Automation · Razorpay**
+**Tech:** Python · AI · Automation · Razorpay
 
-### ⚖️ [EquiChain](https://github.com/thenavya/EquiChain)
-An AI-powered collective procurement platform designed to help small businesses make better purchasing decisions.
+### ⚖️ EquiChain
+An AI-powered collective procurement and business intelligence platform designed to turn fragmented small-business demand into coordinated purchasing power.
 
-**Python · Gemini · Streamlit · AI**
+**Tech:** Python · Google Gemini · Streamlit
 
-### 👻 [PromptGhost](https://github.com/thenavya/PromptGhost)
-A Git-native behavioral diff tool for AI applications that compares prompt changes by their **behavioral impact**, not just code changes.
+### 👻 PromptGhost
+A Git-native behavioral diff tool for AI applications that compares prompt changes by their behavioral impact, rather than just code changes.
 
-**Python · LLMs · Git · AI Evaluation**
+**Tech:** Python · LLMs · Git · AI Evaluation
 
----
-
-## 🧠 Interests
+## 🧠 Areas I'm Interested In
 
 - Artificial Intelligence & Generative AI
 - AI Agents & Automation
-- Product Engineering
-- FinTech
+- Software & Product Engineering
+- Backend Development
+- FinTech & Business Technology
 - Cloud Computing
-- Startup & Business Technology
 - AI Evaluation & Reliability
 
----
-
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+**Languages**
+- Python
+- JavaScript
+- SQL
 
-**Languages**  
-Python · JavaScript · SQL
+**AI & Development**
+- Generative AI
+- LLM Applications
+- Google Gemini API
+- AI Agents
+- Prompt Engineering
 
-**AI & Development**  
-Generative AI · LLM Applications · AI Agents · Prompt Engineering
-
-**Tools & Platforms**  
-Git · GitHub · Streamlit · Azure · Razorpay APIs
-
----
+**Tools & Platforms**
+- Git & GitHub
+- Streamlit
+- Microsoft Azure
+- Razorpay APIs
 
 ## 🏆 Building & Competing
 
-I actively participate in **hackathons, innovation challenges, case competitions, and open-source opportunities** to test ideas in real-world environments.
+I enjoy participating in hackathons, innovation challenges, case competitions, and technical events. They give me opportunities to experiment with new ideas, work with unfamiliar technologies, solve problems, and build products under real constraints.
 
----
+## 📌 What I'm Currently Focusing On
 
-## 📌 Current Focus
-
-Building stronger AI products, improving software engineering depth, and learning how technology can become scalable businesses.
-
----
+- Strengthening my software engineering and problem-solving fundamentals.
+- Building more practical AI-powered applications.
+- Improving my knowledge of backend development and system design.
+- Exploring cloud technologies and AI-driven automation.
+- Learning how to turn useful technology into products that can scale.
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with **builders, founders, engineers, researchers, and people working on ambitious technology products**.
+I'm always interested in connecting with developers, engineers, founders, and fellow builders who enjoy exploring technology and creating meaningful products.
 
-[LinkedIn](https://www.linkedin.com/in/navya-vankdoth-218831425) · [GitHub](https://github.com/thenavya)
+- **LinkedIn:** https://linkedin.com/in/navya-vankdoth-218831425
+- **GitHub:** https://github.com/thenavya
+
